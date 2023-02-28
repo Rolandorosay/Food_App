@@ -8,7 +8,13 @@ This project only has full-stack capabilities, both frontend and backend have be
 
 I would like to keep working on this project in the future to better understand the concepts of creating websites. The idea of having an online restaurant portal, or somewhat of an online cookbook/portfolio of created dishes is one that I have had for quite some time. Moving forward I would like to add better styling to this website, a more sophisticated login/sign-up portal, a gallery/portfolio style home page showcasing dishes on cards, and when the card is clicked it takes you to a page with a more in-depth description of the prepared meal. I would like to add a recipe list under the description, an image carousel, and a video showing how to build the dish. Eventually, it'll also have an order form where you can order the dish ingredients as a kit. It'll be shipped in a styrofoam cooler with dry ice. There are so many different things you can add to this website. It'd be nice to also have a rating for each recipe where people who have cooked it can review it and comment below so that those looking to try each recipe can see what others are saying about the dish. 
 
-There are a lot of feature I'd like to add to this website, but that is a large project that will grow as I expand my programming knowledge. Thank you for checking out my restaurant website. Below is the link to view it live, hosted on AWS. 
+There are a lot of features I'd like to add to this website, but that is a large project that will grow as I expand my programming knowledge. Thank you for checking out my restaurant website. Below is the link to view it live, hosted on AWS. 
+
+
+https://********************
+
+
+
 
 ## Available Scripts
 
