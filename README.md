@@ -8,11 +8,9 @@ This project only has full-stack capabilities, both frontend and backend have be
 
 I would like to keep working on this project in the future to better understand the concepts of creating websites. The idea of having an online restaurant portal, or somewhat of an online cookbook/portfolio of created dishes is one that I have had for quite some time. Moving forward I would like to add better styling to this website, a more sophisticated login/sign-up portal, a gallery/portfolio style home page showcasing dishes on cards, and when the card is clicked it takes you to a page with a more in-depth description of the prepared meal. I would like to add a recipe list under the description, an image carousel, and a video showing how to build the dish. Eventually, it'll also have an order form where you can order the dish ingredients as a kit. It'll be shipped in a styrofoam cooler with dry ice. There are so many different things you can add to this website. It'd be nice to also have a rating for each recipe where people who have cooked it can review it and comment below so that those looking to try each recipe can see what others are saying about the dish. 
 
-There are a lot of features I'd like to add to this website, but that is a large project that will grow as I expand my programming knowledge. Thank you for checking out my restaurant website. Below is the link to view it live, hosted on AWS. 
+There are a lot of features I'd like to add to this website, but that is a large project that will grow as I expand my programming knowledge. Thank you for checking out my restaurant website. Due to current issues with my repository, to check out the website you would have to navigat to the "highrise" branch and download the code onto your local machine. I ran into issues with setting up my Docker files, but have the site functioning correctly otherwise. One other issue I kept running into, even after checking my code against the starter files, was getting my Stripe account and Strapi account to fulfill payments/orders. I don't know if it has something to do with how the fake credit card was working, but I kept getting an "Internal Server Error" report, but everything seemed fine. These are things I am looking to fix before applying to available programming positions.
 
-
-https://********************
-
+All in all, the MIT Professional Certificate in Coding: Full Stack Development with MERN course was very interesting. There was a lot of work and it was quite rigorous, but it helped gain a better understanding of what goes on behind some of these large tech companies. I look forward to finishing and cleaning up my projects so that I can have a clean portfolio. Thanks for checking out my work!
 
 
 
